@@ -1,4 +1,4 @@
-* 台北(4 DAY)：
+* 台北(**4 DAY**)：
     * 台北公館
         * 美食 [美食懒人包](https://kenalice.tw/blog/post/43569784)
         * 宝藏岩 [文艺小清新](https://www.tripadvisor.com.tw/ShowUserReviews-g13808853-d2428715-r601772198-Treasure_Hill-Zhongzheng_District_Taipei.html)
@@ -38,22 +38,21 @@
         * 红楼
     	* #西门町、红楼、剥皮寮一起逛，然后再去爬象山看101夜景
 
-* 台南(1 DAY OR 2DAY)
+* 台南(0 DAY OR **1 DAY** OR 2DAY)
     * [殖民地崇拜]->日系
     * [日治建筑](https://i.imgur.com/NjoUq8I.jpg)
     * 安平古堡
     * 安平老街
     * 四草游船
 
-* 垦丁(3 DAY OR 2DAY)(海边 人会不会太多)
+* **垦丁**(**3 DAY** OR 2DAY)(海边 人会不会太多)
     * 关山看夕阳
     * 白沙湾沙滩戏水
     * 鹅鑾鼻看灯塔
     * 社顶公园看山看海
     * 恆春
-* #兰屿(罢了 飞机不飞死定了)？
-	* #
-* 花莲(2 DAY)
+* ~~兰屿(罢了 飞机不飞死定了 残念~)？~~
+* **花莲**(**2 DAY**)
     * 太鲁阁
     * 七星潭
     * 花莲文创园区
