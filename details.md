@@ -70,6 +70,35 @@
     
 * DAY3 1月24日 周四  故宫+淡水
     * 起床
+        * out -> 7:00
+    * 早餐
+        * in -> 7:20
+        * out -> 7:40
+    * 地铁+公交
+        * in -> 7:50
+        * out -> 9:10
+    * 台北故宫
+        * [预定导览 9:30 档](https://signup.npm.edu.tw/Advice.aspx?ActivityId=6&LangId=1)
+        * in -> 9:20
+        * out -> unknown
+    * 地铁+公交
+        * in -> 13:20
+        * out -> 14:00
+    * 地铁士林站周边 午餐
+        * in -> 14:10
+        * out -> 15:00
+    * 地铁 淡水信義線
+        * in -> 15:10
+        * out -> 16:10
+    * 淡水老街
+        * in -> 16:20
+        * out -> unknown
+    * HOTEL
+        * in -> unknown
+        * 台北市信義區基隆路一段350號
+
+        
+
 
 * DAY4 台北-> 台南
 * DAY5 台南->垦丁
